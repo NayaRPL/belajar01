@@ -29,7 +29,7 @@
 				</tr>
 				<tr>
 					<td>nim</td>
-					<td><input type="number" name="nim" value="<?php echo $d['nim']; ?>"></td>
+					<td><input type="text" name="nim" value="<?php echo $d['nim']; ?>"></td>
 				</tr>
 				<tr>
 					<td>angkatan</td>

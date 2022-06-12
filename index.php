@@ -1,17 +1,3 @@
-<!DOCTYPE html>
-<html>
-
-<head>
-	<title>CRUD PHP dan MySQLi - WWW.MALASNGODING.COM</title>
-</head>
-
-<body>
-
-
-</body>
-
-</html>
-
 <!doctype html>
 <html lang="en">
 

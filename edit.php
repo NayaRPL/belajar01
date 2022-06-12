@@ -15,7 +15,7 @@
 	<?php 
 		include 'config.php';
 		$id = $_GET['id'];
-		$data = mysqli_query($koneksi,"select * from mahasiswa");
+		$data = mysqli_query($koneksi,"select * from mahasiswa where id='$id'");
 		while($d = mysqli_fetch_array($data)){
  	?>
 		<form method="post" action="update.php">

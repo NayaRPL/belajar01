@@ -1,6 +1,5 @@
 <?php 
 include 'config.php';
-
 $nama= $_POST['nama'];
 $nim = $_POST['nim'];
 $angkatan= $_POST['angkatan'];

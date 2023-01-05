@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-01-05T02:25:00.141Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="gKvhLD_7gwb4CKsnGNLH" version="20.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-05T03:38:53.272Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="FKZCLBqe8MEqzLrirV0u" version="20.7.4" type="github">
   <diagram id="fZjmOkZfQwKGXif0JHNu" name="Halaman-1">
-    <mxGraphModel dx="1105" dy="603" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1909" dy="1042" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -18,55 +18,53 @@
         <mxCell id="tORZJb-rjVF9Menkn4Od-3" value="&lt;b&gt;INPUT&lt;/b&gt;&lt;br&gt;banyak_titik,tx,ty" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="417.5" y="240" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="tORZJb-rjVF9Menkn4Od-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" source="tORZJb-rjVF9Menkn4Od-7" target="tORZJb-rjVF9Menkn4Od-9" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="GVT6OWrilJSxbpnbj8RA-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tORZJb-rjVF9Menkn4Od-7" target="GVT6OWrilJSxbpnbj8RA-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="637.5" y="355" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="tORZJb-rjVF9Menkn4Od-7" value="For i = 0 to i=banyak_titik&lt;br&gt;do" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;size=22.5;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="417.5" y="330" width="120" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="tORZJb-rjVF9Menkn4Od-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" source="tORZJb-rjVF9Menkn4Od-9" target="tORZJb-rjVF9Menkn4Od-12" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="gPyzHZRqu-gKPiRz0ZY1-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="590" y="360" as="sourcePoint" />
-            <mxPoint x="520" y="780" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="540" y="360" />
-              <mxPoint x="680" y="360" />
-              <mxPoint x="680" y="780" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="tORZJb-rjVF9Menkn4Od-9" value="Input&amp;nbsp;&lt;br&gt;x,y" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="417.5" y="420" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="tORZJb-rjVF9Menkn4Od-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" source="tORZJb-rjVF9Menkn4Od-12" target="tORZJb-rjVF9Menkn4Od-14" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="tORZJb-rjVF9Menkn4Od-12" value="xi = 1*h + 0*y + tx" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="418" y="510" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="tORZJb-rjVF9Menkn4Od-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="tORZJb-rjVF9Menkn4Od-14" target="tORZJb-rjVF9Menkn4Od-16" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="tORZJb-rjVF9Menkn4Od-14" value="yi = 0*h + 1*y + ty" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="418" y="580" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="GVT6OWrilJSxbpnbj8RA-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="tORZJb-rjVF9Menkn4Od-16" target="tORZJb-rjVF9Menkn4Od-7">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="400" y="350" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="290" y="670" />
-              <mxPoint x="290" y="355" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="tORZJb-rjVF9Menkn4Od-16" value="cetak xi , yi&amp;nbsp;&amp;nbsp;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="418" y="650" width="122" height="40" as="geometry" />
+          <mxGeometry x="419" y="330" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="gPyzHZRqu-gKPiRz0ZY1-1" value="Selesai&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="440.25" y="750" width="77.5" height="51.67" as="geometry" />
+        </mxCell>
+        <mxCell id="GVT6OWrilJSxbpnbj8RA-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="GVT6OWrilJSxbpnbj8RA-6" target="GVT6OWrilJSxbpnbj8RA-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GVT6OWrilJSxbpnbj8RA-6" value="Input&amp;nbsp;&lt;br&gt;x,y" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="600" y="414" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GVT6OWrilJSxbpnbj8RA-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="GVT6OWrilJSxbpnbj8RA-8" target="GVT6OWrilJSxbpnbj8RA-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GVT6OWrilJSxbpnbj8RA-8" value="xi = 1*h + 0*y + tx" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="600.5" y="504" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GVT6OWrilJSxbpnbj8RA-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GVT6OWrilJSxbpnbj8RA-10" target="GVT6OWrilJSxbpnbj8RA-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GVT6OWrilJSxbpnbj8RA-10" value="yi = 0*h + 1*y + ty" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="600.5" y="574" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GVT6OWrilJSxbpnbj8RA-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.625;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="GVT6OWrilJSxbpnbj8RA-11" target="tORZJb-rjVF9Menkn4Od-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="550" y="740" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="670" y="740" />
+              <mxPoint x="494" y="740" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GVT6OWrilJSxbpnbj8RA-11" value="cetak xi , yi&amp;nbsp;&amp;nbsp;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="600.5" y="644" width="122" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GVT6OWrilJSxbpnbj8RA-12" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="tORZJb-rjVF9Menkn4Od-7" target="gPyzHZRqu-gKPiRz0ZY1-1">
+          <mxGeometry x="-1" y="121" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="452.5" y="464" as="sourcePoint" />
+            <mxPoint x="502.5" y="414" as="targetPoint" />
+            <mxPoint x="-24" y="36" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
